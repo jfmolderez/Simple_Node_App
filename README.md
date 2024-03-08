@@ -6,3 +6,10 @@ Usage:
 - check address `localhost:3000` with the browser
 - `docker stop image-name` : stops the image's run 
 
+One image, multiple containers.
+
+We run containers that are based on an image : 
+- the image is the template that contains the code & apps 
+- containers are the running applications
+
+
